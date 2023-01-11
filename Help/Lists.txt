@@ -1,0 +1,26 @@
+Lists
+-----
+
+name[1:3]   			 Eine liste der code nihmmt alles zwischen 1 und 3 und gibt dir
+
+list.extend(another list)      Addiert zwei listen zusammen
+
+list.append(sth)               Addiert etwas zu die liste
+
+list.remove(sth)               löscht etwas in diese liste 
+
+list.clear()			 Löscht alles in liste
+
+list.insert(1,sth)             sortiert etwas in deine Fall
+
+list.index(etwas)              sagt dir wo etwas ist und ob der in liste ist.
+
+list.count(etwas)              Zählt wie viel mal etwas in die liste ist.
+
+list.sort()                    sortiert die liste von a zu z oder 1 zu 10 usw
+
+list.reverse()                 Gibt die die value Rückwerts
+
+neuliste=liste.copy()          kopiert eine liste als neuliste
+_____________________________________________________________________________________________
+

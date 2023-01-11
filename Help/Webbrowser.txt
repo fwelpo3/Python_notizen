@@ -1,0 +1,6 @@
+Webbrowser
+
+import Webbrowser as wb
+
+wb.open_new("google.com")     öffent Web für dich.
+ 

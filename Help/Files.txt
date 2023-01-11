@@ -1,0 +1,28 @@
+Files
+------
+
+
+file=open(the file, mode=r)    öffnet ein Ordner und da kannst du den lesen
+
+file.read()                    Da kann man den file lesen
+
+file.readline()                erste line lesen
+
+file.readlines()               der nimmt die lines und macht aus die liste
+
+file.readlines()[1]            Erste line lesen
+
+file.close()                   schliesst den Ordner
+
+____________________________________________
+
+file=open(the file, mode=a)    öffnet ein Ordner und da kannst du am ende was schreiben
+
+file.write("ABC")              addiert am ende des files ABC        
+
+file.write("\n")			 Addiert neue line
+
+file=open(file name, mode=w)   Macht ein Ordner
+
+________________________________________________________________________________________________________
+

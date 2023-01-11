@@ -1,0 +1,71 @@
+______________________________________________________________________________________________
+Strings
+-------
+
+str.lower()          	       ABC werden abc
+str.islower()   			 Wenn alle Buchstaben klein sind dann gibt der true
+len(str)                       Zählt die charkters in Str z.b bei str=abc dann gibt der 3
+str[0]                         macht liste von str Buchstaben. Bei ABC gibt der A
+str[0:5]  				 Gibt Bei "Hello word"  Hello
+str.index("B")                 sagt dir wann B beginnt bei ABC gibt 2
+str.replace(str old, str new)  Wechselt der alte str mit der neue 
+str="A{}C".format("B")         Ergibt Str = "ABC"
+a="Moha"
+str = f"Hello{a}"              Ergibt Hello Moha
+text.split()                   bei 
+______________________________________________________________________________________________
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

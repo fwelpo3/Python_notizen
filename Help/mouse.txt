@@ -1,0 +1,11 @@
+Mouse
+
+from pynput.mouse import Button,Controller
+
+mouse = Controller
+
+mouse.position()                              Gibt dir die Mouse position
+mouse.position = (200,200)			     Bewegt den mouse zu x,y
+mouse.click(Button.right,1)			     Clickt den mouse ein mal
+mouse.press(Button.left)			     clickt mouse und bleibt geclickt
+mouse.release(Button.right)                   Lässt den mouse

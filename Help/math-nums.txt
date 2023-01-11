@@ -1,0 +1,10 @@
+Nums
+----
+Pow(5,2)                       Das bedeutet 5 hoch 2 = 5 * 5 = 25
+max(4,5)				 Das gibt größere Nummer  5
+min(4,5)                       Das gibt kleinere Nummer 4
+round(3.7)                     rundet da z.b zu 4
+sqrt(36)				 Wurtzel 36 = 6
+______________________________________________________________________________________________
+
+

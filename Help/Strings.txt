@@ -1,0 +1,174 @@
+Random
+------
+
+\n  new line
+
+import os
+os.chdir(where)
+______________________________________________________________________________________________
+Strings
+-------
+
+str.lower()          	       ABC werden abc
+str.islower()   			 Wenn alle Buchstaben klein sind dann gibt der true
+len(str)                       Zählt die charkters in Str z.b bei str=abc dann gibt der 3
+str[0]                         macht liste von str Buchstaben. Bei ABC gibt der A
+str[0:5]  				 Gibt Bei "Hello word"  Hello
+str.index("B")                 sagt dir wann B beginnt bei ABC gibt 2
+str.replace(str old, str new)  Wechselt der alte str mit der neue 
+str="A{}C".format("B")         Ergibt Str = "ABC"
+a="Moha"
+str = f"Hello{a}"              Ergibt Hello Moha
+text.split()                   bei 
+______________________________________________________________________________________________
+
+Nums
+----
+Pow(5,2)                       Das bedeutet 5 hoch 2 = 5 * 5 = 25
+max(4,5)				 Das gibt größere Nummer  5
+min(4,5)                       Das gibt kleinere Nummer 4
+round(3.7)                     rundet da z.b zu 4
+sqrt(36)				 Wurtzel 36 = 6
+______________________________________________________________________________________________
+Lists
+-----
+
+name[1:3]   			 Eine liste der code nihmmt alles zwischen 1 und 3 und gibt dir
+
+list.extend(another list)      Addiert zwei listen zusammen
+
+list.append(sth)               Addiert etwas zu die liste
+
+list.remove(sth)               löscht etwas in diese liste 
+
+list.clear()			 Löscht alles in liste
+
+list.insert(1,sth)             sortiert etwas in deine Fall
+
+list.index(etwas)              sagt dir wo etwas ist und ob der in liste ist.
+
+list.count(etwas)              Zählt wie viel mal etwas in die liste ist.
+
+list.sort()                    sortiert die liste von a zu z oder 1 zu 10 usw
+
+list.reverse()                 Gibt die die value Rückwerts
+
+neuliste=liste.copy()          kopiert eine liste als neuliste
+_____________________________________________________________________________________________
+
+loops
+
+
+friends =["jimmy","tom"]
+
+for name in friends:
+    print(name)
+
+___________________________________________________________________---_________________________
+Files
+------
+
+
+file=open(the file, mode=r)    öffnet ein Ordner und da kannst du den lesen
+
+file.read()                    Da kann man den file lesen
+
+file.readline()                erste line lesen
+
+file.readlines()               der nimmt die lines und macht aus die liste
+
+file.readlines()[1]            Erste line lesen
+
+file.close()                   schliesst den Ordner
+
+____________________________________________
+
+file=open(the file, mode=a)    öffnet ein Ordner und da kannst du am ende was schreiben
+
+file.write("ABC")              addiert am ende des files ABC        
+
+file.write("\n")			 Addiert neue line
+
+file=open(file name, mode=w)   Macht ein Ordner
+
+________________________________________________________________________________________________________
+
+Exel
+-----
+
+load_workbook(path of a faile)  
+
+
+
+
+________________________________________________________________________________________________________
+
+Webbrowser
+
+import Webbrowser as wb
+
+wb.open_new("google.com")     öffent Web für dich.
+ 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

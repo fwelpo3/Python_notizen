@@ -1,0 +1,5 @@
+import keyboard
+
+keyboard.add_hotkey("b+h",lambda : keyboard.write("i know"))	schreibt I know bei b und h
+
+keyboard.wait("a")                                                breaks the Loop
